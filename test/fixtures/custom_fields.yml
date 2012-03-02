@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  key: MyString
+  string_value: MyString
+  date_value: 2012-02-29 20:54:57
+  currency_value: 1
+  integer_value: 1
+  flaot_value: 1.5
+  fieldable_id: 1
+  fieldable_type: MyString
+
+two:
+  key: MyString
+  string_value: MyString
+  date_value: 2012-02-29 20:54:57
+  currency_value: 1
+  integer_value: 1
+  flaot_value: 1.5
+  fieldable_id: 1
+  fieldable_type: MyString
